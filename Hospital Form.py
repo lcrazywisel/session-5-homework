@@ -42,6 +42,9 @@ while True:
         else:
             print("INVALID AGE!")
             continue
+    else:
+        print("ENTER YOUR AGE WITH NUMBERS!")
+        continue
 #CODE_MELLI
 while True:
     code_melli = input("ENTER YOUR CODE MELLI:").strip()
